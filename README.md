@@ -70,5 +70,24 @@ Despite these limitations, the project successfully demonstrates:
 
 ---
 
-## Folder Structure
+## Future Improvements
+
+- Working ESP32-CAM integration
+- Cloud-based face recognition
+- Mobile app for remote access
+- Email alerts for unauthorized access
+- Live video streaming
+- Additional sensors (PIR, gas, fire)
+
+---
+
+## Authors
+
+- Kesanapalli Madhava Naga Venkata Sai Ram  
+- J. Durgesh  
+- P. Avinash  
+
+Department of Electronics and Communication Engineering  
+IIIT Dharwad
+
 
