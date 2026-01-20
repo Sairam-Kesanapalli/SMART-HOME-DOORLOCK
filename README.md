@@ -54,7 +54,7 @@ The project focuses on learning and integrating **Embedded Systems, Computer Vis
 
 ## Project Status and Limitations
 
-⚠️ **Partial Implementation**
+ **Partial Implementation**
 
 - ESP32-CAM module was non-functional due to hardware failure.
 - ESP32 Wi-Fi was not working, so cloud integration was not possible.
